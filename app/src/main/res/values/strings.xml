@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="dashboard">dashboard</string>
+    <string name="profile">profile</string>
+    <string name="about_icon">about</string>
+    <string name="fav_icon">favourite</string>
+</resources>
